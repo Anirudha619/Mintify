@@ -1,18 +1,21 @@
+# Encode club X Polygon 
+# Web3 Full stack challenge and Covalent API challenge 
 # Mintify
+Building an NFT minter dApp with a fully functional front-end to mint NFTs (both ERC 721 and ERC 1155) on Polygon.
 
 ## Step 1. Clone this project (Repository)
 
 ## Step 2. Go to the frontend folder and Install dependencies
 (You don't need to do anything in smartcontracts folder)
 
-so you can go to frontend folder using this command `cd frontend`
+so you can go to frontend folder using this command ```cd frontend```
 
-Install dependencies using this command : `npm i`
+Install dependencies using this command : ```npm i```
 
 ## Step 3. Run the project on your localhost :
 To run the project on localhost use below command :
 
-`npm start`
+```npm start```
 
 ## Step 4. Setting up metamask :
 Please add polygon mumbai testnet in your metamask with below settings before interacting with the dapp :
@@ -27,6 +30,22 @@ Metamask Network Setting :
 
 Minting Walkthrough : 
 https://drive.google.com/file/d/1Bfj49YywCoH_xONE5dQfRiis8G1tYOqO/view?usp=sharing
+
+## covalent API usecase in the Project :
+Covalent API is used to show user His previous NFt's history and NFt Metadata as shown below :
+
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/92630647/174572141-94eb2552-d62e-4c9b-b0e4-c8c931a77f79.png">
+
+## Tech or programming languages used in this dapp :
+```
+React.js
+Solidity
+Covalent API
+Javascript
+Hardhat
+Pinata and ipfs
+```
+
 
 
 
