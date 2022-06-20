@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Smart Contracts
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## you don't need to do any thing in this `smartContracts` folder.  
+You can follow frontend folder in order to run the dapp in your device.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This smartContracts folder contains smartContracts require to mint ERC721 and ERC1155 on polygon mumbai testnet and deployment script for the same.
