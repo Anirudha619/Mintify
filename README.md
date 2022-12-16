@@ -28,8 +28,6 @@ Metamask Network Setting :
 
 ## Step 5. Start Mining on mintify :
 
-Minting Walkthrough : 
-https://drive.google.com/file/d/1Bfj49YywCoH_xONE5dQfRiis8G1tYOqO/view?usp=sharing
 
 ## covalent API usecase in the Project :
 Covalent API is used to show user His previous NFt's history and NFt Metadata as shown below :
